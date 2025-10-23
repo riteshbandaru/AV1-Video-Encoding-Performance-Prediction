@@ -1,6 +1,6 @@
 # Machine Learning-Based Video Encoding Performance Prediction for AV1 Codec
 
-A machine learning system that predicts CPU usage, encoding FPS, and RAM consumption for AV1 video encoding.
+A machine learning system that predicts CPU usage, encoding FPS, and RAM consumption for AV1 video encoding. 
 
 ## Overview
 
